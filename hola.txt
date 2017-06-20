@@ -1,3 +1,0 @@
-hola git
-hola mundo
-linea agregada en test
