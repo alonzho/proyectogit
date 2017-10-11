@@ -1,2 +1,0 @@
-hola git
-este es un cambio hecho en el HEAD
