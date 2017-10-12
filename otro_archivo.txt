@@ -1,4 +1,1 @@
-un texto
-este 2s ot2o a2chivo
-este 2s ot2o a2chivo
-otro texto
+otro_archivo.txt
